@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ArmorPiece"},{"p":"<Unnamed>","l":"Boots"},{"p":"<Unnamed>","l":"Chestplate"},{"p":"<Unnamed>","l":"Gauntlets"},{"p":"<Unnamed>","l":"Helmet"},{"p":"<Unnamed>","l":"KnightArmor"},{"p":"<Unnamed>","l":"Main"}];updateSearchResults();
